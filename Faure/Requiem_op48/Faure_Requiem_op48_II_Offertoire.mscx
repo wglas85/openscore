@@ -31458,7 +31458,7 @@
         <Chord>
           <durationType>eighth</durationType>
           <Articulation>
-            <subtype>fadeout</subtype>
+            <subtype>sforzato</subtype>
             </Articulation>
           <Note>
             <Tie id="244">
@@ -37102,8 +37102,7 @@
         <Chord>
           <durationType>eighth</durationType>
           <Articulation>
-            <subtype>fadeout</subtype>
-            <pos x="0.658281" y="6.4"/>
+            <subtype>sforzato</subtype>
             </Articulation>
           <Note>
             <Tie id="427">
@@ -41041,8 +41040,7 @@
         <Chord>
           <durationType>eighth</durationType>
           <Articulation>
-            <subtype>fadeout</subtype>
-            <pos x="0.658281" y="5.8"/>
+            <subtype>sforzato</subtype>
             </Articulation>
           <Note>
             <Tie id="537">
@@ -45766,8 +45764,7 @@
         <Chord>
           <durationType>eighth</durationType>
           <Articulation>
-            <subtype>fadeout</subtype>
-            <pos x="0.658281" y="6.8"/>
+            <subtype>sforzato</subtype>
             </Articulation>
           <Note>
             <Tie id="726">
