@@ -20171,9 +20171,7 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
         <Dynamic>
           <subtype>pp</subtype>
           <velocity>33</velocity>
-          <pos x="-3.5" y="8.16667"/>
-          <xoffset>0</xoffset>
-          <yoffset>8</yoffset>
+          <style>Dynamics (vocal)</style>
           </Dynamic>
         <Slur id="129">
           <track>80</track>
@@ -20398,9 +20396,7 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
         <Dynamic>
           <subtype>p</subtype>
           <velocity>49</velocity>
-          <pos x="-0.782669" y="10.5"/>
-          <xoffset>0</xoffset>
-          <yoffset>8</yoffset>
+          <style>Dynamics (vocal)</style>
           </Dynamic>
         <HairPin id="136">
           <subtype>0</subtype>
@@ -20562,9 +20558,7 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
         <Dynamic>
           <subtype>p</subtype>
           <velocity>49</velocity>
-          <pos x="0.364249" y="-1.66"/>
-          <xoffset>0</xoffset>
-          <yoffset>8</yoffset>
+          <style>Dynamics (vocal)</style>
           </Dynamic>
         <HairPin id="142">
           <subtype>0</subtype>
@@ -20708,9 +20702,7 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
         <Dynamic>
           <subtype>p</subtype>
           <velocity>49</velocity>
-          <pos x="0.364249" y="-1.10667"/>
-          <xoffset>0</xoffset>
-          <yoffset>8</yoffset>
+          <style>Dynamics (vocal)</style>
           </Dynamic>
         <HairPin id="148">
           <subtype>0</subtype>
@@ -21041,10 +21033,8 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
         <Dynamic>
           <subtype>p</subtype>
           <velocity>49</velocity>
-          <pos x="0.438855" y="-1.33333"/>
           <visible>0</visible>
-          <xoffset>0</xoffset>
-          <yoffset>8</yoffset>
+          <style>Dynamics (vocal)</style>
           </Dynamic>
         <Slur id="156">
           <track>80</track>
@@ -21260,10 +21250,8 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
         <Dynamic>
           <subtype>mp</subtype>
           <velocity>64</velocity>
-          <pos x="0.438855" y="13.3333"/>
           <visible>0</visible>
-          <xoffset>0</xoffset>
-          <yoffset>8</yoffset>
+          <style>Dynamics (vocal)</style>
           </Dynamic>
         <endSpanner id="157"/>
         <HairPin id="160">
@@ -21305,9 +21293,7 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
         <Dynamic>
           <subtype>f</subtype>
           <velocity>96</velocity>
-          <pos x="0.438855" y="-2.66667"/>
-          <xoffset>0</xoffset>
-          <yoffset>8</yoffset>
+          <style>Dynamics (vocal)</style>
           </Dynamic>
         <endSpanner id="160"/>
         <Chord>
@@ -21399,9 +21385,7 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
         <Dynamic>
           <subtype>ff</subtype>
           <velocity>112</velocity>
-          <pos x="-1" y="-1"/>
-          <xoffset>0</xoffset>
-          <yoffset>8</yoffset>
+          <style>Dynamics (vocal)</style>
           </Dynamic>
         <Chord>
           <durationType>eighth</durationType>
@@ -21571,9 +21555,7 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
         <Dynamic>
           <subtype>p</subtype>
           <velocity>49</velocity>
-          <pos x="0.329141" y="-2"/>
-          <xoffset>0</xoffset>
-          <yoffset>8</yoffset>
+          <style>Dynamics (vocal)</style>
           </Dynamic>
         <endSpanner id="164"/>
         <Chord>
@@ -21593,9 +21575,7 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
         <Dynamic>
           <subtype>pp</subtype>
           <velocity>33</velocity>
-          <pos x="0.329141" y="-2"/>
-          <xoffset>0</xoffset>
-          <yoffset>8</yoffset>
+          <style>Dynamics (vocal)</style>
           </Dynamic>
         <Chord>
           <durationType>half</durationType>
@@ -21616,9 +21596,7 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
         <Dynamic>
           <subtype>pp</subtype>
           <velocity>33</velocity>
-          <pos x="0.658281" y="-2"/>
-          <xoffset>0</xoffset>
-          <yoffset>8</yoffset>
+          <style>Dynamics (vocal)</style>
           </Dynamic>
         <Chord>
           <dots>1</dots>
@@ -22103,9 +22081,7 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
         <Dynamic>
           <subtype>pp</subtype>
           <velocity>33</velocity>
-          <pos x="0.658281" y="-2"/>
-          <xoffset>0</xoffset>
-          <yoffset>8</yoffset>
+          <style>Dynamics (vocal)</style>
           </Dynamic>
         <Chord>
           <dots>1</dots>
@@ -22250,9 +22226,7 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
         <Dynamic>
           <subtype>pp</subtype>
           <velocity>33</velocity>
-          <pos x="-3.91662e-16" y="10.5"/>
-          <xoffset>0</xoffset>
-          <yoffset>8</yoffset>
+          <style>Dynamics (vocal)</style>
           </Dynamic>
         <Slur id="168">
           <track>88</track>
@@ -22367,9 +22341,7 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
         <Dynamic>
           <subtype>pp</subtype>
           <velocity>33</velocity>
-          <pos x="-3.91662e-16" y="10.5"/>
-          <xoffset>0</xoffset>
-          <yoffset>8</yoffset>
+          <style>Dynamics (vocal)</style>
           </Dynamic>
         <Slur id="172">
           <track>88</track>
@@ -22488,9 +22460,7 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
         <Dynamic>
           <subtype>p</subtype>
           <velocity>49</velocity>
-          <pos x="-0.782669" y="10.5"/>
-          <xoffset>0</xoffset>
-          <yoffset>8</yoffset>
+          <style>Dynamics (vocal)</style>
           </Dynamic>
         <HairPin id="176">
           <subtype>0</subtype>
@@ -22659,9 +22629,7 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
         <Dynamic>
           <subtype>pp</subtype>
           <velocity>33</velocity>
-          <pos x="0.364249" y="-1.66"/>
-          <xoffset>0</xoffset>
-          <yoffset>8</yoffset>
+          <style>Dynamics (vocal)</style>
           </Dynamic>
         <HairPin id="183">
           <subtype>0</subtype>
@@ -22818,9 +22786,7 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
         <Dynamic>
           <subtype>pp</subtype>
           <velocity>33</velocity>
-          <pos x="0.728498" y="-1.10667"/>
-          <xoffset>0</xoffset>
-          <yoffset>8</yoffset>
+          <style>Dynamics (vocal)</style>
           </Dynamic>
         <Slur id="189">
           <track>88</track>
@@ -23147,9 +23113,7 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
         <Dynamic>
           <subtype>ff</subtype>
           <velocity>112</velocity>
-          <pos x="0.438855" y="-1.33333"/>
-          <xoffset>0</xoffset>
-          <yoffset>8</yoffset>
+          <style>Dynamics (vocal)</style>
           </Dynamic>
         <Chord>
           <durationType>eighth</durationType>
@@ -23271,9 +23235,7 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
         <Dynamic>
           <subtype>ff</subtype>
           <velocity>112</velocity>
-          <pos x="-1.67086" y="-1"/>
-          <xoffset>0</xoffset>
-          <yoffset>8</yoffset>
+          <style>Dynamics (vocal)</style>
           </Dynamic>
         <Chord>
           <durationType>eighth</durationType>
@@ -23483,9 +23445,7 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
         <Dynamic>
           <subtype>pp</subtype>
           <velocity>33</velocity>
-          <pos x="0.658281" y="-2"/>
-          <xoffset>0</xoffset>
-          <yoffset>8</yoffset>
+          <style>Dynamics (vocal)</style>
           </Dynamic>
         <Chord>
           <dots>1</dots>
@@ -23643,9 +23603,7 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
         <Dynamic>
           <subtype>pp</subtype>
           <velocity>33</velocity>
-          <pos x="-3.91662e-16" y="10.5"/>
-          <xoffset>0</xoffset>
-          <yoffset>8</yoffset>
+          <style>Dynamics (vocal)</style>
           </Dynamic>
         <Slur id="200">
           <track>92</track>
@@ -23770,9 +23728,7 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
         <Dynamic>
           <subtype>pp</subtype>
           <velocity>33</velocity>
-          <pos x="-3.91662e-16" y="10.5"/>
-          <xoffset>0</xoffset>
-          <yoffset>8</yoffset>
+          <style>Dynamics (vocal)</style>
           </Dynamic>
         <Slur id="206">
           <track>92</track>
@@ -23891,9 +23847,7 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
         <Dynamic>
           <subtype>p</subtype>
           <velocity>49</velocity>
-          <pos x="-0.782669" y="10.5"/>
-          <xoffset>0</xoffset>
-          <yoffset>8</yoffset>
+          <style>Dynamics (vocal)</style>
           </Dynamic>
         <HairPin id="210">
           <subtype>0</subtype>
@@ -24072,9 +24026,7 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
         <Dynamic>
           <subtype>pp</subtype>
           <velocity>33</velocity>
-          <pos x="0.364249" y="-1.66"/>
-          <xoffset>0</xoffset>
-          <yoffset>8</yoffset>
+          <style>Dynamics (vocal)</style>
           </Dynamic>
         <HairPin id="219">
           <subtype>0</subtype>
@@ -24231,9 +24183,7 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
         <Dynamic>
           <subtype>pp</subtype>
           <velocity>33</velocity>
-          <pos x="0.728498" y="-1.10667"/>
-          <xoffset>0</xoffset>
-          <yoffset>8</yoffset>
+          <style>Dynamics (vocal)</style>
           </Dynamic>
         <Slur id="225">
           <track>92</track>
@@ -24560,9 +24510,7 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
         <Dynamic>
           <subtype>ff</subtype>
           <velocity>112</velocity>
-          <pos x="0.438855" y="-1.33333"/>
-          <xoffset>0</xoffset>
-          <yoffset>8</yoffset>
+          <style>Dynamics (vocal)</style>
           </Dynamic>
         <Chord>
           <durationType>eighth</durationType>
@@ -24684,9 +24632,7 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
         <Dynamic>
           <subtype>ff</subtype>
           <velocity>112</velocity>
-          <pos x="-2.67086" y="-1"/>
-          <xoffset>0</xoffset>
-          <yoffset>8</yoffset>
+          <style>Dynamics (vocal)</style>
           </Dynamic>
         <Chord>
           <durationType>eighth</durationType>
@@ -24907,9 +24853,7 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
         <Dynamic>
           <subtype>pp</subtype>
           <velocity>33</velocity>
-          <pos x="0.987422" y="-2"/>
-          <xoffset>0</xoffset>
-          <yoffset>8</yoffset>
+          <style>Dynamics (vocal)</style>
           </Dynamic>
         <Chord>
           <dots>1</dots>
@@ -25067,9 +25011,7 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
         <Dynamic>
           <subtype>pp</subtype>
           <velocity>33</velocity>
-          <pos x="-3.91662e-16" y="10.5"/>
-          <xoffset>0</xoffset>
-          <yoffset>8</yoffset>
+          <style>Dynamics (vocal)</style>
           </Dynamic>
         <Slur id="236">
           <track>96</track>
@@ -25308,9 +25250,7 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
         <Dynamic>
           <subtype>p</subtype>
           <velocity>49</velocity>
-          <pos x="-0.782669" y="10.5"/>
-          <xoffset>0</xoffset>
-          <yoffset>8</yoffset>
+          <style>Dynamics (vocal)</style>
           </Dynamic>
         <Slur id="246">
           <track>96</track>
@@ -25463,9 +25403,7 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
         <Dynamic>
           <subtype>pp</subtype>
           <velocity>33</velocity>
-          <pos x="0.364249" y="-2.21333"/>
-          <xoffset>0</xoffset>
-          <yoffset>8</yoffset>
+          <style>Dynamics (vocal)</style>
           </Dynamic>
         <HairPin id="252">
           <subtype>0</subtype>
@@ -25622,9 +25560,7 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
         <Dynamic>
           <subtype>pp</subtype>
           <velocity>33</velocity>
-          <pos x="0.728498" y="-2.21333"/>
-          <xoffset>0</xoffset>
-          <yoffset>8</yoffset>
+          <style>Dynamics (vocal)</style>
           </Dynamic>
         <Slur id="258">
           <track>96</track>
@@ -25952,9 +25888,7 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
         <Dynamic>
           <subtype>ff</subtype>
           <velocity>112</velocity>
-          <pos x="-2.22781" y="-1.33333"/>
-          <xoffset>0</xoffset>
-          <yoffset>8</yoffset>
+          <style>Dynamics (vocal)</style>
           </Dynamic>
         <Chord>
           <durationType>eighth</durationType>
@@ -26076,9 +26010,7 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
         <Dynamic>
           <subtype>ff</subtype>
           <velocity>112</velocity>
-          <pos x="-2.67086" y="-1"/>
-          <xoffset>0</xoffset>
-          <yoffset>8</yoffset>
+          <style>Dynamics (vocal)</style>
           </Dynamic>
         <Chord>
           <durationType>eighth</durationType>
@@ -26299,9 +26231,7 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
         <Dynamic>
           <subtype>pp</subtype>
           <velocity>33</velocity>
-          <pos x="0.658281" y="-2"/>
-          <xoffset>0</xoffset>
-          <yoffset>8</yoffset>
+          <style>Dynamics (vocal)</style>
           </Dynamic>
         <Chord>
           <dots>1</dots>
@@ -26560,9 +26490,7 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
         <Dynamic>
           <subtype>pp</subtype>
           <velocity>33</velocity>
-          <pos x="0.364249" y="-2.21333"/>
-          <xoffset>0</xoffset>
-          <yoffset>8</yoffset>
+          <style>Dynamics (vocal)</style>
           </Dynamic>
         <HairPin id="270">
           <subtype>0</subtype>
@@ -26719,9 +26647,7 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
         <Dynamic>
           <subtype>pp</subtype>
           <velocity>33</velocity>
-          <pos x="0.728498" y="-2.21333"/>
-          <xoffset>0</xoffset>
-          <yoffset>8</yoffset>
+          <style>Dynamics (vocal)</style>
           </Dynamic>
         <Slur id="276">
           <track>100</track>
@@ -26964,9 +26890,7 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
         <Dynamic>
           <subtype>ff</subtype>
           <velocity>112</velocity>
-          <pos x="-2.22781" y="-1.33333"/>
-          <xoffset>0</xoffset>
-          <yoffset>8</yoffset>
+          <style>Dynamics (vocal)</style>
           </Dynamic>
         <Chord>
           <durationType>eighth</durationType>
@@ -27088,9 +27012,7 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
         <Dynamic>
           <subtype>ff</subtype>
           <velocity>112</velocity>
-          <pos x="-2.67086" y="-1"/>
-          <xoffset>0</xoffset>
-          <yoffset>8</yoffset>
+          <style>Dynamics (vocal)</style>
           </Dynamic>
         <Chord>
           <durationType>eighth</durationType>
@@ -27300,9 +27222,7 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
         <Dynamic>
           <subtype>pp</subtype>
           <velocity>33</velocity>
-          <pos x="0.987422" y="-2"/>
-          <xoffset>0</xoffset>
-          <yoffset>8</yoffset>
+          <style>Dynamics (vocal)</style>
           </Dynamic>
         <Chord>
           <dots>1</dots>
