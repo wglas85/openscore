@@ -23,8 +23,6 @@
       <TextStyle>
         <halign>center</halign>
         <valign>top</valign>
-        <xoffset>0</xoffset>
-        <yoffset>5</yoffset>
         <offsetType>absolute</offsetType>
         <name>Title</name>
         <family>FreeSerif</family>
@@ -33,6 +31,8 @@
       <TextStyle>
         <halign>center</halign>
         <valign>top</valign>
+        <xoffset>0</xoffset>
+        <yoffset>10</yoffset>
         <offsetType>absolute</offsetType>
         <name>Subtitle</name>
         <family>FreeSerif</family>
@@ -397,6 +397,26 @@
         <italic>1</italic>
         <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
         </TextStyle>
+      <TextStyle>
+        <halign>center</halign>
+        <valign>top</valign>
+        <xoffset>0</xoffset>
+        <yoffset>1</yoffset>
+        <offsetType>absolute</offsetType>
+        <name>Work Title</name>
+        <family>FreeSerif</family>
+        <size>14</size>
+        </TextStyle>
+      <TextStyle>
+        <halign>center</halign>
+        <valign>top</valign>
+        <xoffset>0</xoffset>
+        <yoffset>7</yoffset>
+        <offsetType>absolute</offsetType>
+        <name>Movement Title</name>
+        <family>FreeSerif</family>
+        <size>24</size>
+        </TextStyle>
       <page-layout>
         <page-height>1683.78</page-height>
         <page-width>1190.55</page-width>
@@ -421,7 +441,7 @@
     <showMargins>0</showMargins>
     <metaTag name="arranger"></metaTag>
     <metaTag name="composer">Gabriel Fauré</metaTag>
-    <metaTag name="copyright">OpenScore</metaTag>
+    <metaTag name="copyright">OpenScore (CC0)</metaTag>
     <metaTag name="creationDate">2017-03-31</metaTag>
     <metaTag name="lyricist"></metaTag>
     <metaTag name="movementNumber"></metaTag>
@@ -2413,9 +2433,9 @@
       </Part>
     <Staff id="1">
       <VBox>
-        <height>14</height>
+        <height>15.75</height>
         <Text>
-          <style>Title</style>
+          <style>Movement Title</style>
           <text>II - Offertoire</text>
           </Text>
         <Text>
@@ -2423,7 +2443,7 @@
           <text>Gabriel Fauré</text>
           </Text>
         <Text>
-          <style>Subtitle</style>
+          <style>Work Title</style>
           <text>Requiem</text>
           </Text>
         </VBox>
