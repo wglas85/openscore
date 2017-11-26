@@ -21965,10 +21965,6 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
       </Staff>
     <Staff id="23">
       <Measure number="1">
-        <Clef>
-          <concertClefType>G</concertClefType>
-          <transposingClefType>G</transposingClefType>
-          </Clef>
         <KeySig>
           <accidental>-3</accidental>
           </KeySig>
@@ -21997,7 +21993,7 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
               <track>89</track>
               <visible>0</visible>
               </NoteDot>
-            <pitch>63</pitch>
+            <pitch>51</pitch>
             <tpc>11</tpc>
             <play>0</play>
             <veloType>user</veloType>
@@ -22042,7 +22038,7 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
             </Lyrics>
           <Slur type="start" id="168"/>
           <Note>
-            <pitch>70</pitch>
+            <pitch>58</pitch>
             <tpc>12</tpc>
             </Note>
           </Chord>
@@ -22058,7 +22054,7 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
           <Note>
             <Tie id="169">
               </Tie>
-            <pitch>72</pitch>
+            <pitch>60</pitch>
             <tpc>14</tpc>
             </Note>
           </Chord>
@@ -22068,7 +22064,7 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
           <durationType>quarter</durationType>
           <Note>
             <endSpanner id="169"/>
-            <pitch>72</pitch>
+            <pitch>60</pitch>
             <tpc>14</tpc>
             </Note>
           </Chord>
@@ -22085,7 +22081,7 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
             </Lyrics>
           <Slur type="start" id="170"/>
           <Note>
-            <pitch>70</pitch>
+            <pitch>58</pitch>
             <tpc>12</tpc>
             </Note>
           </Chord>
@@ -22093,7 +22089,7 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
           <durationType>quarter</durationType>
           <Slur type="stop" id="170"/>
           <Note>
-            <pitch>68</pitch>
+            <pitch>56</pitch>
             <tpc>10</tpc>
             </Note>
           </Chord>
@@ -22112,7 +22108,7 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
           <Note>
             <Tie id="171">
               </Tie>
-            <pitch>70</pitch>
+            <pitch>58</pitch>
             <tpc>12</tpc>
             </Note>
           </Chord>
@@ -22120,7 +22116,7 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
           <durationType>eighth</durationType>
           <Note>
             <endSpanner id="171"/>
-            <pitch>70</pitch>
+            <pitch>58</pitch>
             <tpc>12</tpc>
             </Note>
           </Chord>
@@ -22160,7 +22156,7 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
           <Slur type="start" id="172"/>
           <Slur type="start" id="173"/>
           <Note>
-            <pitch>70</pitch>
+            <pitch>58</pitch>
             <tpc>12</tpc>
             </Note>
           </Chord>
@@ -22176,7 +22172,7 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
           <Note>
             <Tie id="174">
               </Tie>
-            <pitch>72</pitch>
+            <pitch>60</pitch>
             <tpc>14</tpc>
             </Note>
           </Chord>
@@ -22186,7 +22182,7 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
           <durationType>quarter</durationType>
           <Note>
             <endSpanner id="174"/>
-            <pitch>72</pitch>
+            <pitch>60</pitch>
             <tpc>14</tpc>
             </Note>
           </Chord>
@@ -22199,7 +22195,7 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
             <text>Do</text>
             </Lyrics>
           <Note>
-            <pitch>70</pitch>
+            <pitch>58</pitch>
             <tpc>12</tpc>
             </Note>
           </Chord>
@@ -22212,7 +22208,7 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
             <text>mi</text>
             </Lyrics>
           <Note>
-            <pitch>68</pitch>
+            <pitch>56</pitch>
             <tpc>10</tpc>
             </Note>
           </Chord>
@@ -22231,7 +22227,7 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
           <Note>
             <Tie id="175">
               </Tie>
-            <pitch>70</pitch>
+            <pitch>58</pitch>
             <tpc>12</tpc>
             </Note>
           </Chord>
@@ -22239,7 +22235,7 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
           <durationType>eighth</durationType>
           <Note>
             <endSpanner id="175"/>
-            <pitch>70</pitch>
+            <pitch>58</pitch>
             <tpc>12</tpc>
             </Note>
           </Chord>
@@ -22284,7 +22280,7 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
             </Lyrics>
           <Slur type="start" id="177"/>
           <Note>
-            <pitch>70</pitch>
+            <pitch>58</pitch>
             <tpc>12</tpc>
             </Note>
           </Chord>
@@ -22297,7 +22293,7 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
             <text>mi</text>
             </Lyrics>
           <Note>
-            <pitch>72</pitch>
+            <pitch>60</pitch>
             <tpc>14</tpc>
             </Note>
           </Chord>
@@ -22312,13 +22308,9 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
             </Lyrics>
           <Slur type="stop" id="177"/>
           <Note>
-            <Accidental>
-              <role>1</role>
-              <subtype>natural</subtype>
-              </Accidental>
             <Tie id="178">
               </Tie>
-            <pitch>74</pitch>
+            <pitch>62</pitch>
             <tpc>16</tpc>
             </Note>
           </Chord>
@@ -22338,7 +22330,7 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
           <durationType>quarter</durationType>
           <Note>
             <endSpanner id="178"/>
-            <pitch>74</pitch>
+            <pitch>62</pitch>
             <tpc>16</tpc>
             </Note>
           </Chord>
@@ -22359,7 +22351,7 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
           <Slur type="start" id="180"/>
           <Slur type="start" id="181"/>
           <Note>
-            <pitch>70</pitch>
+            <pitch>58</pitch>
             <tpc>12</tpc>
             </Note>
           </Chord>
@@ -22368,7 +22360,7 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
           <Slur type="stop" id="180"/>
           <Slur type="stop" id="181"/>
           <Note>
-            <pitch>68</pitch>
+            <pitch>56</pitch>
             <tpc>10</tpc>
             </Note>
           </Chord>
@@ -23334,10 +23326,6 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
       </Staff>
     <Staff id="24">
       <Measure number="1">
-        <Clef>
-          <concertClefType>G</concertClefType>
-          <transposingClefType>G</transposingClefType>
-          </Clef>
         <KeySig>
           <accidental>-3</accidental>
           </KeySig>
@@ -23366,7 +23354,7 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
               <track>93</track>
               <visible>0</visible>
               </NoteDot>
-            <pitch>63</pitch>
+            <pitch>51</pitch>
             <tpc>11</tpc>
             <play>0</play>
             <veloType>user</veloType>
@@ -23415,7 +23403,7 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
           <Slur type="start" id="200"/>
           <Slur type="start" id="201"/>
           <Note>
-            <pitch>70</pitch>
+            <pitch>58</pitch>
             <tpc>12</tpc>
             </Note>
           </Chord>
@@ -23431,7 +23419,7 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
           <Note>
             <Tie id="202">
               </Tie>
-            <pitch>72</pitch>
+            <pitch>60</pitch>
             <tpc>14</tpc>
             </Note>
           </Chord>
@@ -23441,7 +23429,7 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
           <durationType>quarter</durationType>
           <Note>
             <endSpanner id="202"/>
-            <pitch>72</pitch>
+            <pitch>60</pitch>
             <tpc>14</tpc>
             </Note>
           </Chord>
@@ -23462,7 +23450,7 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
           <Slur type="start" id="203"/>
           <Slur type="start" id="204"/>
           <Note>
-            <pitch>70</pitch>
+            <pitch>58</pitch>
             <tpc>12</tpc>
             </Note>
           </Chord>
@@ -23471,7 +23459,7 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
           <Slur type="stop" id="203"/>
           <Slur type="stop" id="204"/>
           <Note>
-            <pitch>68</pitch>
+            <pitch>56</pitch>
             <tpc>10</tpc>
             </Note>
           </Chord>
@@ -23491,7 +23479,7 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
           <Note>
             <Tie id="205">
               </Tie>
-            <pitch>70</pitch>
+            <pitch>58</pitch>
             <tpc>12</tpc>
             </Note>
           </Chord>
@@ -23499,7 +23487,7 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
           <durationType>eighth</durationType>
           <Note>
             <endSpanner id="205"/>
-            <pitch>70</pitch>
+            <pitch>58</pitch>
             <tpc>12</tpc>
             </Note>
           </Chord>
@@ -23539,7 +23527,7 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
           <Slur type="start" id="206"/>
           <Slur type="start" id="207"/>
           <Note>
-            <pitch>70</pitch>
+            <pitch>58</pitch>
             <tpc>12</tpc>
             </Note>
           </Chord>
@@ -23555,7 +23543,7 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
           <Note>
             <Tie id="208">
               </Tie>
-            <pitch>72</pitch>
+            <pitch>60</pitch>
             <tpc>14</tpc>
             </Note>
           </Chord>
@@ -23565,7 +23553,7 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
           <durationType>quarter</durationType>
           <Note>
             <endSpanner id="208"/>
-            <pitch>72</pitch>
+            <pitch>60</pitch>
             <tpc>14</tpc>
             </Note>
           </Chord>
@@ -23578,7 +23566,7 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
             <text>Do</text>
             </Lyrics>
           <Note>
-            <pitch>70</pitch>
+            <pitch>58</pitch>
             <tpc>12</tpc>
             </Note>
           </Chord>
@@ -23591,7 +23579,7 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
             <text>mi</text>
             </Lyrics>
           <Note>
-            <pitch>68</pitch>
+            <pitch>56</pitch>
             <tpc>10</tpc>
             </Note>
           </Chord>
@@ -23610,7 +23598,7 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
           <Note>
             <Tie id="209">
               </Tie>
-            <pitch>70</pitch>
+            <pitch>58</pitch>
             <tpc>12</tpc>
             </Note>
           </Chord>
@@ -23618,7 +23606,7 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
           <durationType>eighth</durationType>
           <Note>
             <endSpanner id="209"/>
-            <pitch>70</pitch>
+            <pitch>58</pitch>
             <tpc>12</tpc>
             </Note>
           </Chord>
@@ -23667,7 +23655,7 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
           <Slur type="start" id="211"/>
           <Slur type="start" id="212"/>
           <Note>
-            <pitch>70</pitch>
+            <pitch>58</pitch>
             <tpc>12</tpc>
             </Note>
           </Chord>
@@ -23680,7 +23668,7 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
             <text>mi</text>
             </Lyrics>
           <Note>
-            <pitch>72</pitch>
+            <pitch>60</pitch>
             <tpc>14</tpc>
             </Note>
           </Chord>
@@ -23696,13 +23684,9 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
           <Slur type="stop" id="211"/>
           <Slur type="stop" id="212"/>
           <Note>
-            <Accidental>
-              <role>1</role>
-              <subtype>natural</subtype>
-              </Accidental>
             <Tie id="213">
               </Tie>
-            <pitch>74</pitch>
+            <pitch>62</pitch>
             <tpc>16</tpc>
             </Note>
           </Chord>
@@ -23722,7 +23706,7 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
           <durationType>quarter</durationType>
           <Note>
             <endSpanner id="213"/>
-            <pitch>74</pitch>
+            <pitch>62</pitch>
             <tpc>16</tpc>
             </Note>
           </Chord>
@@ -23747,7 +23731,7 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
           <Slur type="start" id="216"/>
           <Slur type="start" id="217"/>
           <Note>
-            <pitch>70</pitch>
+            <pitch>58</pitch>
             <tpc>12</tpc>
             </Note>
           </Chord>
@@ -23757,7 +23741,7 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
           <Slur type="stop" id="216"/>
           <Slur type="stop" id="217"/>
           <Note>
-            <pitch>68</pitch>
+            <pitch>56</pitch>
             <tpc>10</tpc>
             </Note>
           </Chord>
