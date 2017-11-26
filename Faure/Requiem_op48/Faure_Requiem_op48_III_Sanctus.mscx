@@ -2531,11 +2531,6 @@
           <sigD>4</sigD>
           <showCourtesySig>1</showCourtesySig>
           </TimeSig>
-        <Tempo>
-          <tempo>1</tempo>
-          <followText>1</followText>
-          <text>Andante moderato (<sym>unicodeNoteQuarterUp</sym> = 60)</text>
-          </Tempo>
         <Rest>
           <durationType>measure</durationType>
           <duration z="3" n="4"/>
@@ -2658,11 +2653,6 @@
           <sigD>4</sigD>
           <showCourtesySig>1</showCourtesySig>
           </TimeSig>
-        <Tempo>
-          <tempo>1</tempo>
-          <followText>1</followText>
-          <text>And.<sup>te</sup>mod.<sup>to</sup> (<sym>unicodeNoteQuarterUp</sym> = 60)</text>
-          </Tempo>
         <Rest>
           <durationType>measure</durationType>
           <duration z="3" n="4"/>
@@ -2787,11 +2777,6 @@
           <sigD>4</sigD>
           <showCourtesySig>1</showCourtesySig>
           </TimeSig>
-        <Tempo>
-          <tempo>1</tempo>
-          <followText>1</followText>
-          <text>Andante Moderato (<sym>unicodeNoteQuarterUp</sym> = 60)</text>
-          </Tempo>
         <Rest>
           <durationType>measure</durationType>
           <duration z="3" n="4"/>
