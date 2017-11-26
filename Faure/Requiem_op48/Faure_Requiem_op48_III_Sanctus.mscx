@@ -470,8 +470,6 @@
       <Page>
         <System>
           </System>
-        <System>
-          </System>
         </Page>
       <Page>
         <System>
@@ -488,8 +486,6 @@
       <Page>
         <System>
           </System>
-        <System>
-          </System>
         </Page>
       <Page>
         <System>
@@ -502,8 +498,6 @@
           </System>
         </Page>
       <Page>
-        <System>
-          </System>
         <System>
           </System>
         </Page>
@@ -2528,17 +2522,6 @@
           <duration z="3" n="4"/>
           </Rest>
         </Measure>
-      <VBox>
-        <height>10</height>
-        <Text>
-          <style>Title</style>
-          <text>Requiem</text>
-          </Text>
-        <Text>
-          <style>Composer</style>
-          <text>Gabriel Fauré</text>
-          </Text>
-        </VBox>
       <Measure number="15">
         <KeySig>
           <accidental>-3</accidental>
@@ -2666,17 +2649,6 @@
           <duration z="3" n="4"/>
           </Rest>
         </Measure>
-      <VBox>
-        <height>10</height>
-        <Text>
-          <style>Title</style>
-          <text>Requiem</text>
-          </Text>
-        <Text>
-          <style>Composer</style>
-          <text>Gabriel Fauré</text>
-          </Text>
-        </VBox>
       <Measure number="31">
         <KeySig>
           <accidental>-3</accidental>
@@ -2806,17 +2778,6 @@
           <duration z="3" n="4"/>
           </Rest>
         </Measure>
-      <VBox>
-        <height>10</height>
-        <Text>
-          <style>Title</style>
-          <text>Requiem</text>
-          </Text>
-        <Text>
-          <style>Composer</style>
-          <text>Gabriel Fauré</text>
-          </Text>
-        </VBox>
       <Measure number="47">
         <KeySig>
           <accidental>-3</accidental>
@@ -5402,11 +5363,9 @@
         <HairPin id="2">
           <subtype>0</subtype>
           <beginText>
-            <style>Hairpin</style>
             <text>cresc.</text>
             </beginText>
           <continueText>
-            <style>Hairpin</style>
             <text>(cresc.)</text>
             </continueText>
           </HairPin>
@@ -5461,7 +5420,6 @@
           <durationType>quarter</durationType>
           <Articulation>
             <subtype>sforzato</subtype>
-            <pos x="1.05104" y="1.47188"/>
             </Articulation>
           <Note>
             <Tie id="4">
@@ -5483,11 +5441,9 @@
         <HairPin id="5">
           <subtype>1</subtype>
           <beginText>
-            <style>Hairpin</style>
             <text>dim.</text>
             </beginText>
           <continueText>
-            <style>Hairpin</style>
             <text>(dim.)</text>
             </continueText>
           </HairPin>
@@ -5544,11 +5500,9 @@
         <HairPin id="7">
           <subtype>0</subtype>
           <beginText>
-            <style>Hairpin</style>
             <text>cresc.</text>
             </beginText>
           <continueText>
-            <style>Hairpin</style>
             <text>(cresc.)</text>
             </continueText>
           </HairPin>
@@ -5624,22 +5578,18 @@
           <useTextLine>1</useTextLine>
           <lineStyle>6</lineStyle>
           <beginText>
-            <style>Hairpin</style>
             <text>dim.</text>
             </beginText>
           <continueText>
-            <style>Hairpin</style>
             <text>(dim.)</text>
             </continueText>
           </HairPin>
         <HairPin id="10">
           <subtype>1</subtype>
           <beginText>
-            <style>Hairpin</style>
             <text>dim.</text>
             </beginText>
           <continueText>
-            <style>Hairpin</style>
             <text>(dim.)</text>
             </continueText>
           </HairPin>
@@ -5686,11 +5636,9 @@
         <HairPin id="12">
           <subtype>0</subtype>
           <beginText>
-            <style>Hairpin</style>
             <text>cresc.</text>
             </beginText>
           <continueText>
-            <style>Hairpin</style>
             <text>(cresc.)</text>
             </continueText>
           </HairPin>
@@ -5721,11 +5669,9 @@
         <HairPin id="13">
           <subtype>0</subtype>
           <beginText>
-            <style>Hairpin</style>
             <text>cresc.</text>
             </beginText>
           <continueText>
-            <style>Hairpin</style>
             <text>(cresc.)</text>
             </continueText>
           </HairPin>
@@ -5796,22 +5742,18 @@
           <useTextLine>1</useTextLine>
           <lineStyle>6</lineStyle>
           <beginText>
-            <style>Hairpin</style>
             <text>dim.</text>
             </beginText>
           <continueText>
-            <style>Hairpin</style>
             <text>(dim.)</text>
             </continueText>
           </HairPin>
         <HairPin id="17">
           <subtype>1</subtype>
           <beginText>
-            <style>Hairpin</style>
             <text>dim.</text>
             </beginText>
           <continueText>
-            <style>Hairpin</style>
             <text>(dim.)</text>
             </continueText>
           </HairPin>
@@ -5858,11 +5800,9 @@
         <HairPin id="19">
           <subtype>0</subtype>
           <beginText>
-            <style>Hairpin</style>
             <text>cresc.</text>
             </beginText>
           <continueText>
-            <style>Hairpin</style>
             <text>(cresc.)</text>
             </continueText>
           </HairPin>
@@ -6328,11 +6268,9 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
         <HairPin id="23">
           <subtype>0</subtype>
           <beginText>
-            <style>Hairpin</style>
             <text>cresc.</text>
             </beginText>
           <continueText>
-            <style>Hairpin</style>
             <text>(cresc.)</text>
             </continueText>
           </HairPin>
@@ -6408,11 +6346,9 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
         <HairPin id="26">
           <subtype>1</subtype>
           <beginText>
-            <style>Hairpin</style>
             <text>dim.</text>
             </beginText>
           <continueText>
-            <style>Hairpin</style>
             <text>(dim.)</text>
             </continueText>
           </HairPin>
@@ -6469,11 +6405,9 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
         <HairPin id="28">
           <subtype>0</subtype>
           <beginText>
-            <style>Hairpin</style>
             <text>cresc.</text>
             </beginText>
           <continueText>
-            <style>Hairpin</style>
             <text>(cresc.)</text>
             </continueText>
           </HairPin>
@@ -6547,11 +6481,9 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
         <HairPin id="30">
           <subtype>1</subtype>
           <beginText>
-            <style>Hairpin</style>
             <text>dim.</text>
             </beginText>
           <continueText>
-            <style>Hairpin</style>
             <text>(dim.)</text>
             </continueText>
           </HairPin>
@@ -6560,11 +6492,9 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
           <useTextLine>1</useTextLine>
           <lineStyle>6</lineStyle>
           <beginText>
-            <style>Hairpin</style>
             <text>dim.</text>
             </beginText>
           <continueText>
-            <style>Hairpin</style>
             <text>(dim.)</text>
             </continueText>
           </HairPin>
@@ -6614,11 +6544,9 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
         <HairPin id="32">
           <subtype>0</subtype>
           <beginText>
-            <style>Hairpin</style>
             <text>cresc.</text>
             </beginText>
           <continueText>
-            <style>Hairpin</style>
             <text>(cresc.)</text>
             </continueText>
           </HairPin>
@@ -6649,11 +6577,9 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
         <HairPin id="33">
           <subtype>0</subtype>
           <beginText>
-            <style>Hairpin</style>
             <text>cresc.</text>
             </beginText>
           <continueText>
-            <style>Hairpin</style>
             <text>(cresc.)</text>
             </continueText>
           </HairPin>
@@ -6724,22 +6650,18 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
           <useTextLine>1</useTextLine>
           <lineStyle>6</lineStyle>
           <beginText>
-            <style>Hairpin</style>
             <text>dim.</text>
             </beginText>
           <continueText>
-            <style>Hairpin</style>
             <text>(dim.)</text>
             </continueText>
           </HairPin>
         <HairPin id="37">
           <subtype>1</subtype>
           <beginText>
-            <style>Hairpin</style>
             <text>dim.</text>
             </beginText>
           <continueText>
-            <style>Hairpin</style>
             <text>(dim.)</text>
             </continueText>
           </HairPin>
@@ -6789,11 +6711,9 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
         <HairPin id="38">
           <subtype>0</subtype>
           <beginText>
-            <style>Hairpin</style>
             <text>cresc.</text>
             </beginText>
           <continueText>
-            <style>Hairpin</style>
             <text>(cresc.)</text>
             </continueText>
           </HairPin>
@@ -7175,11 +7095,9 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
         <HairPin id="39">
           <subtype>0</subtype>
           <beginText>
-            <style>Hairpin</style>
             <text>cresc.</text>
             </beginText>
           <continueText>
-            <style>Hairpin</style>
             <text>(cresc.)</text>
             </continueText>
           </HairPin>
@@ -7255,11 +7173,9 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
         <HairPin id="42">
           <subtype>1</subtype>
           <beginText>
-            <style>Hairpin</style>
             <text>dim.</text>
             </beginText>
           <continueText>
-            <style>Hairpin</style>
             <text>(dim.)</text>
             </continueText>
           </HairPin>
@@ -7316,11 +7232,9 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
         <HairPin id="44">
           <subtype>0</subtype>
           <beginText>
-            <style>Hairpin</style>
             <text>cresc.</text>
             </beginText>
           <continueText>
-            <style>Hairpin</style>
             <text>(cresc.)</text>
             </continueText>
           </HairPin>
@@ -7396,22 +7310,18 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
           <useTextLine>1</useTextLine>
           <lineStyle>6</lineStyle>
           <beginText>
-            <style>Hairpin</style>
             <text>dim.</text>
             </beginText>
           <continueText>
-            <style>Hairpin</style>
             <text>(dim.)</text>
             </continueText>
           </HairPin>
         <HairPin id="47">
           <subtype>1</subtype>
           <beginText>
-            <style>Hairpin</style>
             <text>dim.</text>
             </beginText>
           <continueText>
-            <style>Hairpin</style>
             <text>(dim.)</text>
             </continueText>
           </HairPin>
@@ -7461,11 +7371,9 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
         <HairPin id="48">
           <subtype>0</subtype>
           <beginText>
-            <style>Hairpin</style>
             <text>cresc.</text>
             </beginText>
           <continueText>
-            <style>Hairpin</style>
             <text>(cresc.)</text>
             </continueText>
           </HairPin>
@@ -7496,11 +7404,9 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
         <HairPin id="49">
           <subtype>0</subtype>
           <beginText>
-            <style>Hairpin</style>
             <text>cresc.</text>
             </beginText>
           <continueText>
-            <style>Hairpin</style>
             <text>(cresc.)</text>
             </continueText>
           </HairPin>
@@ -7571,22 +7477,18 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
           <useTextLine>1</useTextLine>
           <lineStyle>6</lineStyle>
           <beginText>
-            <style>Hairpin</style>
             <text>dim.</text>
             </beginText>
           <continueText>
-            <style>Hairpin</style>
             <text>(dim.)</text>
             </continueText>
           </HairPin>
         <HairPin id="53">
           <subtype>1</subtype>
           <beginText>
-            <style>Hairpin</style>
             <text>dim.</text>
             </beginText>
           <continueText>
-            <style>Hairpin</style>
             <text>(dim.)</text>
             </continueText>
           </HairPin>
@@ -7636,11 +7538,9 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
         <HairPin id="54">
           <subtype>0</subtype>
           <beginText>
-            <style>Hairpin</style>
             <text>cresc.</text>
             </beginText>
           <continueText>
-            <style>Hairpin</style>
             <text>(cresc.)</text>
             </continueText>
           </HairPin>
@@ -8022,11 +7922,9 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
         <HairPin id="55">
           <subtype>0</subtype>
           <beginText>
-            <style>Hairpin</style>
             <text>cresc.</text>
             </beginText>
           <continueText>
-            <style>Hairpin</style>
             <text>(cresc.)</text>
             </continueText>
           </HairPin>
@@ -8102,11 +8000,9 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
         <HairPin id="58">
           <subtype>1</subtype>
           <beginText>
-            <style>Hairpin</style>
             <text>dim.</text>
             </beginText>
           <continueText>
-            <style>Hairpin</style>
             <text>(dim.)</text>
             </continueText>
           </HairPin>
@@ -8163,11 +8059,9 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
         <HairPin id="60">
           <subtype>0</subtype>
           <beginText>
-            <style>Hairpin</style>
             <text>cresc.</text>
             </beginText>
           <continueText>
-            <style>Hairpin</style>
             <text>(cresc.)</text>
             </continueText>
           </HairPin>
@@ -8243,22 +8137,18 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
           <useTextLine>1</useTextLine>
           <lineStyle>6</lineStyle>
           <beginText>
-            <style>Hairpin</style>
             <text>dim.</text>
             </beginText>
           <continueText>
-            <style>Hairpin</style>
             <text>(dim.)</text>
             </continueText>
           </HairPin>
         <HairPin id="63">
           <subtype>1</subtype>
           <beginText>
-            <style>Hairpin</style>
             <text>dim.</text>
             </beginText>
           <continueText>
-            <style>Hairpin</style>
             <text>(dim.)</text>
             </continueText>
           </HairPin>
@@ -8308,11 +8198,9 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
         <HairPin id="64">
           <subtype>0</subtype>
           <beginText>
-            <style>Hairpin</style>
             <text>cresc.</text>
             </beginText>
           <continueText>
-            <style>Hairpin</style>
             <text>(cresc.)</text>
             </continueText>
           </HairPin>
@@ -8343,11 +8231,9 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
         <HairPin id="65">
           <subtype>0</subtype>
           <beginText>
-            <style>Hairpin</style>
             <text>cresc.</text>
             </beginText>
           <continueText>
-            <style>Hairpin</style>
             <text>(cresc.)</text>
             </continueText>
           </HairPin>
@@ -8418,22 +8304,18 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
           <useTextLine>1</useTextLine>
           <lineStyle>6</lineStyle>
           <beginText>
-            <style>Hairpin</style>
             <text>dim.</text>
             </beginText>
           <continueText>
-            <style>Hairpin</style>
             <text>(dim.)</text>
             </continueText>
           </HairPin>
         <HairPin id="69">
           <subtype>1</subtype>
           <beginText>
-            <style>Hairpin</style>
             <text>dim.</text>
             </beginText>
           <continueText>
-            <style>Hairpin</style>
             <text>(dim.)</text>
             </continueText>
           </HairPin>
@@ -8483,11 +8365,9 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
         <HairPin id="70">
           <subtype>0</subtype>
           <beginText>
-            <style>Hairpin</style>
             <text>cresc.</text>
             </beginText>
           <continueText>
-            <style>Hairpin</style>
             <text>(cresc.)</text>
             </continueText>
           </HairPin>
@@ -8869,11 +8749,9 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
         <HairPin id="71">
           <subtype>0</subtype>
           <beginText>
-            <style>Hairpin</style>
             <text>cresc.</text>
             </beginText>
           <continueText>
-            <style>Hairpin</style>
             <text>(cresc.)</text>
             </continueText>
           </HairPin>
@@ -8949,11 +8827,9 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
         <HairPin id="74">
           <subtype>1</subtype>
           <beginText>
-            <style>Hairpin</style>
             <text>dim.</text>
             </beginText>
           <continueText>
-            <style>Hairpin</style>
             <text>(dim.)</text>
             </continueText>
           </HairPin>
@@ -9011,11 +8887,9 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
         <HairPin id="76">
           <subtype>0</subtype>
           <beginText>
-            <style>Hairpin</style>
             <text>cresc.</text>
             </beginText>
           <continueText>
-            <style>Hairpin</style>
             <text>(cresc.)</text>
             </continueText>
           </HairPin>
@@ -9092,22 +8966,18 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
           <useTextLine>1</useTextLine>
           <lineStyle>6</lineStyle>
           <beginText>
-            <style>Hairpin</style>
             <text>dim.</text>
             </beginText>
           <continueText>
-            <style>Hairpin</style>
             <text>(dim.)</text>
             </continueText>
           </HairPin>
         <HairPin id="79">
           <subtype>1</subtype>
           <beginText>
-            <style>Hairpin</style>
             <text>dim.</text>
             </beginText>
           <continueText>
-            <style>Hairpin</style>
             <text>(dim.)</text>
             </continueText>
           </HairPin>
@@ -9157,11 +9027,9 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
         <HairPin id="80">
           <subtype>0</subtype>
           <beginText>
-            <style>Hairpin</style>
             <text>cresc.</text>
             </beginText>
           <continueText>
-            <style>Hairpin</style>
             <text>(cresc.)</text>
             </continueText>
           </HairPin>
@@ -9192,11 +9060,9 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
         <HairPin id="81">
           <subtype>0</subtype>
           <beginText>
-            <style>Hairpin</style>
             <text>cresc.</text>
             </beginText>
           <continueText>
-            <style>Hairpin</style>
             <text>(cresc.)</text>
             </continueText>
           </HairPin>
@@ -9268,22 +9134,18 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
           <useTextLine>1</useTextLine>
           <lineStyle>6</lineStyle>
           <beginText>
-            <style>Hairpin</style>
             <text>dim.</text>
             </beginText>
           <continueText>
-            <style>Hairpin</style>
             <text>(dim.)</text>
             </continueText>
           </HairPin>
         <HairPin id="85">
           <subtype>1</subtype>
           <beginText>
-            <style>Hairpin</style>
             <text>dim.</text>
             </beginText>
           <continueText>
-            <style>Hairpin</style>
             <text>(dim.)</text>
             </continueText>
           </HairPin>
@@ -9333,11 +9195,9 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
         <HairPin id="86">
           <subtype>0</subtype>
           <beginText>
-            <style>Hairpin</style>
             <text>cresc.</text>
             </beginText>
           <continueText>
-            <style>Hairpin</style>
             <text>(cresc.)</text>
             </continueText>
           </HairPin>
@@ -9802,11 +9662,9 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
         <HairPin id="90">
           <subtype>0</subtype>
           <beginText>
-            <style>Hairpin</style>
             <text>cresc.</text>
             </beginText>
           <continueText>
-            <style>Hairpin</style>
             <text>(cresc.)</text>
             </continueText>
           </HairPin>
@@ -9882,11 +9740,9 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
         <HairPin id="93">
           <subtype>1</subtype>
           <beginText>
-            <style>Hairpin</style>
             <text>dim.</text>
             </beginText>
           <continueText>
-            <style>Hairpin</style>
             <text>(dim.)</text>
             </continueText>
           </HairPin>
@@ -9944,11 +9800,9 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
         <HairPin id="95">
           <subtype>0</subtype>
           <beginText>
-            <style>Hairpin</style>
             <text>cresc.</text>
             </beginText>
           <continueText>
-            <style>Hairpin</style>
             <text>(cresc.)</text>
             </continueText>
           </HairPin>
@@ -10025,22 +9879,18 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
           <useTextLine>1</useTextLine>
           <lineStyle>6</lineStyle>
           <beginText>
-            <style>Hairpin</style>
             <text>dim.</text>
             </beginText>
           <continueText>
-            <style>Hairpin</style>
             <text>(dim.)</text>
             </continueText>
           </HairPin>
         <HairPin id="98">
           <subtype>1</subtype>
           <beginText>
-            <style>Hairpin</style>
             <text>dim.</text>
             </beginText>
           <continueText>
-            <style>Hairpin</style>
             <text>(dim.)</text>
             </continueText>
           </HairPin>
@@ -10090,11 +9940,9 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
         <HairPin id="99">
           <subtype>0</subtype>
           <beginText>
-            <style>Hairpin</style>
             <text>cresc.</text>
             </beginText>
           <continueText>
-            <style>Hairpin</style>
             <text>(cresc.)</text>
             </continueText>
           </HairPin>
@@ -10125,11 +9973,9 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
         <HairPin id="100">
           <subtype>0</subtype>
           <beginText>
-            <style>Hairpin</style>
             <text>cresc.</text>
             </beginText>
           <continueText>
-            <style>Hairpin</style>
             <text>(cresc.)</text>
             </continueText>
           </HairPin>
@@ -10199,11 +10045,9 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
         <HairPin id="103">
           <subtype>1</subtype>
           <beginText>
-            <style>Hairpin</style>
             <text>dim.</text>
             </beginText>
           <continueText>
-            <style>Hairpin</style>
             <text>(dim.)</text>
             </continueText>
           </HairPin>
@@ -10212,11 +10056,9 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
           <useTextLine>1</useTextLine>
           <lineStyle>6</lineStyle>
           <beginText>
-            <style>Hairpin</style>
             <text>dim.</text>
             </beginText>
           <continueText>
-            <style>Hairpin</style>
             <text>(dim.)</text>
             </continueText>
           </HairPin>
@@ -10266,11 +10108,9 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
         <HairPin id="105">
           <subtype>0</subtype>
           <beginText>
-            <style>Hairpin</style>
             <text>cresc.</text>
             </beginText>
           <continueText>
-            <style>Hairpin</style>
             <text>(cresc.)</text>
             </continueText>
           </HairPin>
@@ -13239,11 +13079,9 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
         <HairPin id="106">
           <subtype>0</subtype>
           <beginText>
-            <style>Hairpin</style>
             <text>cresc.</text>
             </beginText>
           <continueText>
-            <style>Hairpin</style>
             <text>(cresc.)</text>
             </continueText>
           </HairPin>
@@ -13355,11 +13193,9 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
         <HairPin id="107">
           <subtype>1</subtype>
           <beginText>
-            <style>Hairpin</style>
             <text>dim.</text>
             </beginText>
           <continueText>
-            <style>Hairpin</style>
             <text>(dim.)</text>
             </continueText>
           </HairPin>
@@ -13851,11 +13687,9 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
         <HairPin id="108">
           <subtype>0</subtype>
           <beginText>
-            <style>Hairpin</style>
             <text>cresc.</text>
             </beginText>
           <continueText>
-            <style>Hairpin</style>
             <text>(cresc.)</text>
             </continueText>
           </HairPin>
@@ -13955,11 +13789,9 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
         <HairPin id="109">
           <subtype>1</subtype>
           <beginText>
-            <style>Hairpin</style>
             <text>dim.</text>
             </beginText>
           <continueText>
-            <style>Hairpin</style>
             <text>(dim.)</text>
             </continueText>
           </HairPin>
@@ -15831,11 +15663,9 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
           <lineVisible>0</lineVisible>
           <visible>0</visible>
           <beginText>
-            <style>Hairpin</style>
             <text>cresc.</text>
             </beginText>
           <continueText>
-            <style>Hairpin</style>
             <text>(cresc.)</text>
             </continueText>
           </HairPin>
@@ -16022,11 +15852,9 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
         <HairPin id="111">
           <subtype>0</subtype>
           <beginText>
-            <style>Hairpin</style>
             <text>cresc.</text>
             </beginText>
           <continueText>
-            <style>Hairpin</style>
             <text>(cresc.)</text>
             </continueText>
           </HairPin>
@@ -16603,11 +16431,9 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
           <useTextLine>1</useTextLine>
           <lineStyle>6</lineStyle>
           <beginText>
-            <style>Hairpin</style>
             <text>dim.</text>
             </beginText>
           <continueText>
-            <style>Hairpin</style>
             <text>(dim.)</text>
             </continueText>
           </HairPin>
@@ -17444,11 +17270,9 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
           <useTextLine>1</useTextLine>
           <lineStyle>6</lineStyle>
           <beginText>
-            <style>Hairpin</style>
             <text>dim.</text>
             </beginText>
           <continueText>
-            <style>Hairpin</style>
             <text>(dim.)</text>
             </continueText>
           </HairPin>
@@ -19387,11 +19211,9 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
           <lineVisible>0</lineVisible>
           <visible>0</visible>
           <beginText>
-            <style>Hairpin</style>
             <text>cresc.</text>
             </beginText>
           <continueText>
-            <style>Hairpin</style>
             <text>(cresc.)</text>
             </continueText>
           </HairPin>
@@ -19482,11 +19304,9 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
         <HairPin id="127">
           <subtype>0</subtype>
           <beginText>
-            <style>Hairpin</style>
             <text>cresc.</text>
             </beginText>
           <continueText>
-            <style>Hairpin</style>
             <text>(cresc.)</text>
             </continueText>
           </HairPin>
@@ -20401,11 +20221,9 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
         <HairPin id="136">
           <subtype>0</subtype>
           <beginText>
-            <style>Hairpin</style>
             <text>cresc.</text>
             </beginText>
           <continueText>
-            <style>Hairpin</style>
             <text>(cresc.)</text>
             </continueText>
           </HairPin>
@@ -20464,11 +20282,9 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
         <HairPin id="139">
           <subtype>1</subtype>
           <beginText>
-            <style>Hairpin</style>
             <text>dim.</text>
             </beginText>
           <continueText>
-            <style>Hairpin</style>
             <text>(dim.)</text>
             </continueText>
           </HairPin>
@@ -20563,11 +20379,9 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
         <HairPin id="142">
           <subtype>0</subtype>
           <beginText>
-            <style>Hairpin</style>
             <text>cresc.</text>
             </beginText>
           <continueText>
-            <style>Hairpin</style>
             <text>(cresc.)</text>
             </continueText>
           </HairPin>
@@ -20621,11 +20435,9 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
         <HairPin id="146">
           <subtype>1</subtype>
           <beginText>
-            <style>Hairpin</style>
             <text>dim.</text>
             </beginText>
           <continueText>
-            <style>Hairpin</style>
             <text>(dim.)</text>
             </continueText>
           </HairPin>
@@ -20707,11 +20519,9 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
         <HairPin id="148">
           <subtype>0</subtype>
           <beginText>
-            <style>Hairpin</style>
             <text>cresc.</text>
             </beginText>
           <continueText>
-            <style>Hairpin</style>
             <text>(cresc.)</text>
             </continueText>
           </HairPin>
@@ -20759,11 +20569,9 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
         <HairPin id="151">
           <subtype>1</subtype>
           <beginText>
-            <style>Hairpin</style>
             <text>dim.</text>
             </beginText>
           <continueText>
-            <style>Hairpin</style>
             <text>(dim.)</text>
             </continueText>
           </HairPin>
@@ -21164,11 +20972,9 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
           <lineVisible>0</lineVisible>
           <visible>0</visible>
           <beginText>
-            <style>Hairpin</style>
             <text>cresc.</text>
             </beginText>
           <continueText>
-            <style>Hairpin</style>
             <text>(cresc.)</text>
             </continueText>
           </HairPin>
@@ -21257,11 +21063,9 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
         <HairPin id="160">
           <subtype>0</subtype>
           <beginText>
-            <style>Hairpin</style>
             <text>cresc.</text>
             </beginText>
           <continueText>
-            <style>Hairpin</style>
             <text>(cresc.)</text>
             </continueText>
           </HairPin>
@@ -21469,11 +21273,9 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
           <useTextLine>1</useTextLine>
           <lineStyle>6</lineStyle>
           <beginText>
-            <style>Hairpin</style>
             <text>dim.</text>
             </beginText>
           <continueText>
-            <style>Hairpin</style>
             <text>(dim.)</text>
             </continueText>
           </HairPin>
@@ -21506,11 +21308,9 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
           <subtype>1</subtype>
           <hairpinHeight>2</hairpinHeight>
           <beginText>
-            <style>Hairpin</style>
             <text>dim.</text>
             </beginText>
           <continueText>
-            <style>Hairpin</style>
             <text>(dim.)</text>
             </continueText>
           </HairPin>
@@ -22465,11 +22265,9 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
         <HairPin id="176">
           <subtype>0</subtype>
           <beginText>
-            <style>Hairpin</style>
             <text>cresc.</text>
             </beginText>
           <continueText>
-            <style>Hairpin</style>
             <text>(cresc.)</text>
             </continueText>
           </HairPin>
@@ -22530,11 +22328,9 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
         <HairPin id="179">
           <subtype>1</subtype>
           <beginText>
-            <style>Hairpin</style>
             <text>dim.</text>
             </beginText>
           <continueText>
-            <style>Hairpin</style>
             <text>(dim.)</text>
             </continueText>
           </HairPin>
@@ -22634,11 +22430,9 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
         <HairPin id="183">
           <subtype>0</subtype>
           <beginText>
-            <style>Hairpin</style>
             <text>cresc.</text>
             </beginText>
           <continueText>
-            <style>Hairpin</style>
             <text>(cresc.)</text>
             </continueText>
           </HairPin>
@@ -22694,11 +22488,9 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
         <HairPin id="187">
           <subtype>1</subtype>
           <beginText>
-            <style>Hairpin</style>
             <text>dim.</text>
             </beginText>
           <continueText>
-            <style>Hairpin</style>
             <text>(dim.)</text>
             </continueText>
           </HairPin>
@@ -23852,11 +23644,9 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
         <HairPin id="210">
           <subtype>0</subtype>
           <beginText>
-            <style>Hairpin</style>
             <text>cresc.</text>
             </beginText>
           <continueText>
-            <style>Hairpin</style>
             <text>(cresc.)</text>
             </continueText>
           </HairPin>
@@ -23922,11 +23712,9 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
         <HairPin id="214">
           <subtype>1</subtype>
           <beginText>
-            <style>Hairpin</style>
             <text>dim.</text>
             </beginText>
           <continueText>
-            <style>Hairpin</style>
             <text>(dim.)</text>
             </continueText>
           </HairPin>
@@ -24031,11 +23819,9 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
         <HairPin id="219">
           <subtype>0</subtype>
           <beginText>
-            <style>Hairpin</style>
             <text>cresc.</text>
             </beginText>
           <continueText>
-            <style>Hairpin</style>
             <text>(cresc.)</text>
             </continueText>
           </HairPin>
@@ -24091,11 +23877,9 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
         <HairPin id="223">
           <subtype>1</subtype>
           <beginText>
-            <style>Hairpin</style>
             <text>dim.</text>
             </beginText>
           <continueText>
-            <style>Hairpin</style>
             <text>(dim.)</text>
             </continueText>
           </HairPin>
@@ -25308,11 +25092,9 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
         <HairPin id="248">
           <subtype>1</subtype>
           <beginText>
-            <style>Hairpin</style>
             <text>dim.</text>
             </beginText>
           <continueText>
-            <style>Hairpin</style>
             <text>(dim.)</text>
             </continueText>
           </HairPin>
@@ -25408,11 +25190,9 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
         <HairPin id="252">
           <subtype>0</subtype>
           <beginText>
-            <style>Hairpin</style>
             <text>cresc.</text>
             </beginText>
           <continueText>
-            <style>Hairpin</style>
             <text>(cresc.)</text>
             </continueText>
           </HairPin>
@@ -25468,11 +25248,9 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
         <HairPin id="256">
           <subtype>1</subtype>
           <beginText>
-            <style>Hairpin</style>
             <text>dim.</text>
             </beginText>
           <continueText>
-            <style>Hairpin</style>
             <text>(dim.)</text>
             </continueText>
           </HairPin>
@@ -26495,11 +26273,9 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
         <HairPin id="270">
           <subtype>0</subtype>
           <beginText>
-            <style>Hairpin</style>
             <text>cresc.</text>
             </beginText>
           <continueText>
-            <style>Hairpin</style>
             <text>(cresc.)</text>
             </continueText>
           </HairPin>
@@ -26555,11 +26331,9 @@ Some instruments share staves in the PDF, but all instruments should have a sepa
         <HairPin id="274">
           <subtype>1</subtype>
           <beginText>
-            <style>Hairpin</style>
             <text>dim.</text>
             </beginText>
           <continueText>
-            <style>Hairpin</style>
             <text>(dim.)</text>
             </continueText>
           </HairPin>
@@ -27536,11 +27310,9 @@ Sourdines</text>
         <HairPin id="287">
           <subtype>0</subtype>
           <beginText>
-            <style>Hairpin</style>
             <text>cresc.</text>
             </beginText>
           <continueText>
-            <style>Hairpin</style>
             <text>(cresc.)</text>
             </continueText>
           </HairPin>
@@ -27606,11 +27378,9 @@ Sourdines</text>
         <HairPin id="289">
           <subtype>1</subtype>
           <beginText>
-            <style>Hairpin</style>
             <text>dim.</text>
             </beginText>
           <continueText>
-            <style>Hairpin</style>
             <text>(dim.)</text>
             </continueText>
           </HairPin>
@@ -29023,11 +28793,9 @@ Sourdines</text>
         <HairPin id="315">
           <subtype>0</subtype>
           <beginText>
-            <style>Hairpin</style>
             <text>cresc.</text>
             </beginText>
           <continueText>
-            <style>Hairpin</style>
             <text>(cresc.)</text>
             </continueText>
           </HairPin>
@@ -29089,11 +28857,9 @@ Sourdines</text>
         <HairPin id="317">
           <subtype>1</subtype>
           <beginText>
-            <style>Hairpin</style>
             <text>dim.</text>
             </beginText>
           <continueText>
-            <style>Hairpin</style>
             <text>(dim.)</text>
             </continueText>
           </HairPin>
@@ -29189,11 +28955,9 @@ Sourdines</text>
         <HairPin id="319">
           <subtype>0</subtype>
           <beginText>
-            <style>Hairpin</style>
             <text>cresc.</text>
             </beginText>
           <continueText>
-            <style>Hairpin</style>
             <text>(cresc.)</text>
             </continueText>
           </HairPin>
@@ -29264,11 +29028,9 @@ Sourdines</text>
         <HairPin id="322">
           <subtype>1</subtype>
           <beginText>
-            <style>Hairpin</style>
             <text>dim.</text>
             </beginText>
           <continueText>
-            <style>Hairpin</style>
             <text>(dim.)</text>
             </continueText>
           </HairPin>
@@ -31330,11 +31092,9 @@ Sourdines</text>
         <HairPin id="372">
           <subtype>0</subtype>
           <beginText>
-            <style>Hairpin</style>
             <text>cresc.</text>
             </beginText>
           <continueText>
-            <style>Hairpin</style>
             <text>(cresc.)</text>
             </continueText>
           </HairPin>
@@ -31454,11 +31214,9 @@ Sourdines</text>
         <HairPin id="376">
           <subtype>1</subtype>
           <beginText>
-            <style>Hairpin</style>
             <text>dim.</text>
             </beginText>
           <continueText>
-            <style>Hairpin</style>
             <text>(dim.)</text>
             </continueText>
           </HairPin>
@@ -31787,11 +31545,9 @@ Sourdines</text>
         <HairPin id="386">
           <subtype>0</subtype>
           <beginText>
-            <style>Hairpin</style>
             <text>cresc.</text>
             </beginText>
           <continueText>
-            <style>Hairpin</style>
             <text>(cresc.)</text>
             </continueText>
           </HairPin>
@@ -31911,11 +31667,9 @@ Sourdines</text>
         <HairPin id="390">
           <subtype>1</subtype>
           <beginText>
-            <style>Hairpin</style>
             <text>dim.</text>
             </beginText>
           <continueText>
-            <style>Hairpin</style>
             <text>(dim.)</text>
             </continueText>
           </HairPin>
@@ -32024,11 +31778,9 @@ Sourdines</text>
         <HairPin id="394">
           <subtype>0</subtype>
           <beginText>
-            <style>Hairpin</style>
             <text>cresc.</text>
             </beginText>
           <continueText>
-            <style>Hairpin</style>
             <text>(cresc.)</text>
             </continueText>
           </HairPin>
@@ -32142,11 +31894,9 @@ Sourdines</text>
         <HairPin id="399">
           <subtype>1</subtype>
           <beginText>
-            <style>Hairpin</style>
             <text>dim.</text>
             </beginText>
           <continueText>
-            <style>Hairpin</style>
             <text>(dim.)</text>
             </continueText>
           </HairPin>
@@ -34181,11 +33931,9 @@ Sourdines</text>
           <subtype>0</subtype>
           <visible>0</visible>
           <beginText>
-            <style>Hairpin</style>
             <text>cresc.</text>
             </beginText>
           <continueText>
-            <style>Hairpin</style>
             <text>(cresc.)</text>
             </continueText>
           </HairPin>
@@ -34402,11 +34150,9 @@ Sourdines</text>
         <HairPin id="464">
           <subtype>0</subtype>
           <beginText>
-            <style>Hairpin</style>
             <text>cresc.</text>
             </beginText>
           <continueText>
-            <style>Hairpin</style>
             <text>(cresc.)</text>
             </continueText>
           </HairPin>
@@ -34963,11 +34709,9 @@ Sourdines</text>
           <useTextLine>1</useTextLine>
           <lineStyle>6</lineStyle>
           <beginText>
-            <style>Hairpin</style>
             <text>dim.</text>
             </beginText>
           <continueText>
-            <style>Hairpin</style>
             <text>(dim.)</text>
             </continueText>
           </HairPin>
@@ -37336,11 +37080,9 @@ Sourdines</text>
         <HairPin id="533">
           <subtype>0</subtype>
           <beginText>
-            <style>Hairpin</style>
             <text>cresc.</text>
             </beginText>
           <continueText>
-            <style>Hairpin</style>
             <text>(cresc.)</text>
             </continueText>
           </HairPin>
@@ -37460,11 +37202,9 @@ Sourdines</text>
         <HairPin id="537">
           <subtype>1</subtype>
           <beginText>
-            <style>Hairpin</style>
             <text>dim.</text>
             </beginText>
           <continueText>
-            <style>Hairpin</style>
             <text>(dim.)</text>
             </continueText>
           </HairPin>
@@ -37789,11 +37529,9 @@ Sourdines</text>
         <HairPin id="547">
           <subtype>0</subtype>
           <beginText>
-            <style>Hairpin</style>
             <text>cresc.</text>
             </beginText>
           <continueText>
-            <style>Hairpin</style>
             <text>(cresc.)</text>
             </continueText>
           </HairPin>
@@ -37909,11 +37647,9 @@ Sourdines</text>
         <HairPin id="551">
           <subtype>1</subtype>
           <beginText>
-            <style>Hairpin</style>
             <text>dim.</text>
             </beginText>
           <continueText>
-            <style>Hairpin</style>
             <text>(dim.)</text>
             </continueText>
           </HairPin>
@@ -38022,11 +37758,9 @@ Sourdines</text>
         <HairPin id="555">
           <subtype>0</subtype>
           <beginText>
-            <style>Hairpin</style>
             <text>cresc.</text>
             </beginText>
           <continueText>
-            <style>Hairpin</style>
             <text>(cresc.)</text>
             </continueText>
           </HairPin>
@@ -38135,11 +37869,9 @@ Sourdines</text>
         <HairPin id="559">
           <subtype>1</subtype>
           <beginText>
-            <style>Hairpin</style>
             <text>dim.</text>
             </beginText>
           <continueText>
-            <style>Hairpin</style>
             <text>(dim.)</text>
             </continueText>
           </HairPin>
@@ -40176,11 +39908,9 @@ Sourdines</text>
           <lineVisible>0</lineVisible>
           <visible>0</visible>
           <beginText>
-            <style>Hairpin</style>
             <text>cresc.</text>
             </beginText>
           <continueText>
-            <style>Hairpin</style>
             <text>(cresc.)</text>
             </continueText>
           </HairPin>
@@ -40397,11 +40127,9 @@ Sourdines</text>
         <HairPin id="624">
           <subtype>0</subtype>
           <beginText>
-            <style>Hairpin</style>
             <text>cresc.</text>
             </beginText>
           <continueText>
-            <style>Hairpin</style>
             <text>(cresc.)</text>
             </continueText>
           </HairPin>
@@ -40964,11 +40692,9 @@ Sourdines</text>
           <useTextLine>1</useTextLine>
           <lineStyle>6</lineStyle>
           <beginText>
-            <style>Hairpin</style>
             <text>dim.</text>
             </beginText>
           <continueText>
-            <style>Hairpin</style>
             <text>(dim.)</text>
             </continueText>
           </HairPin>
@@ -42468,11 +42194,9 @@ Sourdines</text>
         <HairPin id="673">
           <subtype>0</subtype>
           <beginText>
-            <style>Hairpin</style>
             <text>cresc.</text>
             </beginText>
           <continueText>
-            <style>Hairpin</style>
             <text>(cresc.)</text>
             </continueText>
           </HairPin>
@@ -42511,11 +42235,9 @@ Sourdines</text>
         <HairPin id="676">
           <subtype>1</subtype>
           <beginText>
-            <style>Hairpin</style>
             <text>dim.</text>
             </beginText>
           <continueText>
-            <style>Hairpin</style>
             <text>(dim.)</text>
             </continueText>
           </HairPin>
@@ -42943,11 +42665,9 @@ Sourdines</text>
           <subtype>0</subtype>
           <visible>0</visible>
           <beginText>
-            <style>Hairpin</style>
             <text>cresc.</text>
             </beginText>
           <continueText>
-            <style>Hairpin</style>
             <text>(cresc.)</text>
             </continueText>
           </HairPin>
@@ -43023,11 +42743,9 @@ Sourdines</text>
         <HairPin id="694">
           <subtype>0</subtype>
           <beginText>
-            <style>Hairpin</style>
             <text>cresc.</text>
             </beginText>
           <continueText>
-            <style>Hairpin</style>
             <text>(cresc.)</text>
             </continueText>
           </HairPin>
@@ -43515,11 +43233,9 @@ Sourdines</text>
           <useTextLine>1</useTextLine>
           <lineStyle>6</lineStyle>
           <beginText>
-            <style>Hairpin</style>
             <text>dim.</text>
             </beginText>
           <continueText>
-            <style>Hairpin</style>
             <text>(dim.)</text>
             </continueText>
           </HairPin>
@@ -44207,11 +43923,9 @@ Sourdines</text>
         <HairPin id="722">
           <subtype>0</subtype>
           <beginText>
-            <style>Hairpin</style>
             <text>cresc.</text>
             </beginText>
           <continueText>
-            <style>Hairpin</style>
             <text>(cresc.)</text>
             </continueText>
           </HairPin>
@@ -44249,11 +43963,9 @@ Sourdines</text>
         <HairPin id="725">
           <subtype>1</subtype>
           <beginText>
-            <style>Hairpin</style>
             <text>dim.</text>
             </beginText>
           <continueText>
-            <style>Hairpin</style>
             <text>(dim.)</text>
             </continueText>
           </HairPin>
@@ -44634,11 +44346,9 @@ Sourdines</text>
           <subtype>0</subtype>
           <visible>0</visible>
           <beginText>
-            <style>Hairpin</style>
             <text>cresc.</text>
             </beginText>
           <continueText>
-            <style>Hairpin</style>
             <text>(cresc.)</text>
             </continueText>
           </HairPin>
@@ -44710,11 +44420,9 @@ Sourdines</text>
         <HairPin id="736">
           <subtype>0</subtype>
           <beginText>
-            <style>Hairpin</style>
             <text>cresc.</text>
             </beginText>
           <continueText>
-            <style>Hairpin</style>
             <text>(cresc.)</text>
             </continueText>
           </HairPin>
@@ -45213,11 +44921,9 @@ Sourdines</text>
           <useTextLine>1</useTextLine>
           <lineStyle>6</lineStyle>
           <beginText>
-            <style>Hairpin</style>
             <text>dim.</text>
             </beginText>
           <continueText>
-            <style>Hairpin</style>
             <text>(dim.)</text>
             </continueText>
           </HairPin>
@@ -46245,11 +45951,9 @@ Sourdines</text>
         <HairPin id="757">
           <subtype>0</subtype>
           <beginText>
-            <style>Hairpin</style>
             <text>cresc.</text>
             </beginText>
           <continueText>
-            <style>Hairpin</style>
             <text>(cresc.)</text>
             </continueText>
           </HairPin>
@@ -46631,11 +46335,9 @@ Sourdines</text>
           <useTextLine>1</useTextLine>
           <lineStyle>6</lineStyle>
           <beginText>
-            <style>Hairpin</style>
             <text>dim.</text>
             </beginText>
           <continueText>
-            <style>Hairpin</style>
             <text>(dim.)</text>
             </continueText>
           </HairPin>
@@ -47167,11 +46869,9 @@ Sourdines</text>
         <HairPin id="792">
           <subtype>0</subtype>
           <beginText>
-            <style>Hairpin</style>
             <text>cresc.</text>
             </beginText>
           <continueText>
-            <style>Hairpin</style>
             <text>(cresc.)</text>
             </continueText>
           </HairPin>
@@ -47236,11 +46936,9 @@ Sourdines</text>
         <HairPin id="795">
           <subtype>1</subtype>
           <beginText>
-            <style>Hairpin</style>
             <text>dim.</text>
             </beginText>
           <continueText>
-            <style>Hairpin</style>
             <text>(dim.)</text>
             </continueText>
           </HairPin>
@@ -47325,11 +47023,9 @@ Sourdines</text>
         <HairPin id="800">
           <subtype>0</subtype>
           <beginText>
-            <style>Hairpin</style>
             <text>cresc.</text>
             </beginText>
           <continueText>
-            <style>Hairpin</style>
             <text>(cresc.)</text>
             </continueText>
           </HairPin>
@@ -47393,11 +47089,9 @@ Sourdines</text>
         <HairPin id="803">
           <subtype>1</subtype>
           <beginText>
-            <style>Hairpin</style>
             <text>dim.</text>
             </beginText>
           <continueText>
-            <style>Hairpin</style>
             <text>(dim.)</text>
             </continueText>
           </HairPin>
@@ -47423,11 +47117,9 @@ Sourdines</text>
         <HairPin id="805">
           <subtype>0</subtype>
           <beginText>
-            <style>Hairpin</style>
             <text>cresc.</text>
             </beginText>
           <continueText>
-            <style>Hairpin</style>
             <text>(cresc.)</text>
             </continueText>
           </HairPin>
@@ -47450,11 +47142,9 @@ Sourdines</text>
         <HairPin id="806">
           <subtype>1</subtype>
           <beginText>
-            <style>Hairpin</style>
             <text>dim.</text>
             </beginText>
           <continueText>
-            <style>Hairpin</style>
             <text>(dim.)</text>
             </continueText>
           </HairPin>
@@ -47958,11 +47648,9 @@ Sourdines</text>
           <subtype>0</subtype>
           <visible>0</visible>
           <beginText>
-            <style>Hairpin</style>
             <text>cresc.</text>
             </beginText>
           <continueText>
-            <style>Hairpin</style>
             <text>(cresc.)</text>
             </continueText>
           </HairPin>
@@ -48071,11 +47759,9 @@ Sourdines</text>
         <HairPin id="829">
           <subtype>0</subtype>
           <beginText>
-            <style>Hairpin</style>
             <text>cresc.</text>
             </beginText>
           <continueText>
-            <style>Hairpin</style>
             <text>(cresc.)</text>
             </continueText>
           </HairPin>
@@ -50992,11 +50678,9 @@ Sourdines</text>
           <useTextLine>1</useTextLine>
           <lineStyle>6</lineStyle>
           <beginText>
-            <style>Hairpin</style>
             <text>dim.</text>
             </beginText>
           <continueText>
-            <style>Hairpin</style>
             <text>(dim.)</text>
             </continueText>
           </HairPin>
@@ -51546,11 +51230,9 @@ Sourdines</text>
           <useTextLine>1</useTextLine>
           <lineStyle>6</lineStyle>
           <beginText>
-            <style>Hairpin</style>
             <text>dim.</text>
             </beginText>
           <continueText>
-            <style>Hairpin</style>
             <text>(dim.)</text>
             </continueText>
           </HairPin>
